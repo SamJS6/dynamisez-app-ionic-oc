@@ -1,0 +1,12 @@
+page-lend-book {
+    .is-lend {
+        ion-card-content, ion-card-header, ion-grid {
+          background-color: #ffeeee;
+        }
+      }
+      .is-return {
+        ion-card-content, ion-card-header, ion-grid {
+          background-color: #eeffee ;
+        }
+      }
+}
